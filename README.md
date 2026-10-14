@@ -1,7 +1,7 @@
 # Hi, I'm Weida 👋
 
 I'm a PhD candidate in Theoretical and Computational Chemistry
-at The Chinese University of Hong Kong (expected March 2027).
+at The Chinese University of Hong Kong.
 
 My research focuses on computational modeling, numerical
 simulations, and quantitative analysis. I enjoy breaking down
