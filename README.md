@@ -8,9 +8,9 @@ simulations, and quantitative analysis. I enjoy breaking down
 complex problems, testing assumptions, and developing
 computational tools to explore and understand data.
 
-Beyond my doctoral research, I work on personal Python
-projects involving machine learning, optimization, graph
-algorithms, and data visualization.
+Beyond my doctoral research, I work on personal projects
+involving machine learning, optimization, graph algorithms,
+data visualization, and financial modeling.
 
 ## Selected Projects
 
@@ -29,6 +29,15 @@ historical game records.
 Molecular geometry optimization using CMA-ES and
 quantum chemical energy calculations, with experiments
 exploring coordinate representations and model reliability.
+
+### Financial Modeling & Valuation
+
+**[WD-40 — Financial Analysis & DCF Valuation](https://github.com/weida-feng/WD40-DCF-Valuation)**
+
+A retrospective, self-directed valuation case study with an
+editable Excel FCFF model, sensitivity analysis, and reverse
+DCF. Documents the calculation process, assumptions,
+limitations, and GPT-assisted development.
 
 ### Graph Algorithms
 
@@ -56,7 +65,7 @@ Streamlit, featuring multilingual support.
 - **Methods:** Numerical optimization, statistical analysis,
   machine learning, computational modeling
 - **Tools:** NumPy, pandas, scikit-learn, Matplotlib,
-  NetworkX, Streamlit
+  NetworkX, Streamlit, Excel
 
 I'm particularly interested in applying quantitative methods
 to practical problems, with an emphasis on model validation,
